@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CleanUp",
+"dataUrl": "https://cdn.glitch.me/390c93a7-960a-46dc-86c4-e2c242f9dcc8/garbage_collector.data.unityweb",
+"wasmCodeUrl": "https://cdn.glitch.me/390c93a7-960a-46dc-86c4-e2c242f9dcc8/garbage_collector.wasm.code.unityweb",
+"wasmFrameworkUrl": "https://cdn.glitch.me/390c93a7-960a-46dc-86c4-e2c242f9dcc8/garbage_collector.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}

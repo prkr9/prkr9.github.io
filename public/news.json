@@ -1,0 +1,82 @@
+[
+  { 
+    "name": "Diddy Kong Racing", 
+    "g": "diddy-kong-racing", 
+    "sys": "n64", 
+    "id": "69",
+    "url": "c",
+    "badge": "N64"
+  },
+  { 
+    "name": "Mario Tennis", 
+    "g": "mario-tennis", 
+    "sys": "n64", 
+    "id": "68",
+    "url": "c",
+    "badge": "N64"
+  },
+  { 
+    "name": "Super Smash Bros", 
+    "g": "super-smash-bros", 
+    "sys": "n64", 
+    "id": "67",
+    "url": "c",
+    "badge": "N64"
+  },
+  { 
+    "name": "Mario Kart 64", 
+    "g": "mario-kart-64", 
+    "sys": "n64", 
+    "id": "66",
+    "url": "c",
+    "badge": "N64"
+  },
+  { 
+    "name": "F-Zero GX", 
+    "g": "f-zero-gx", 
+    "sys": "n64", 
+    "id": "65",
+    "url": "c",
+    "badge": "N64"
+  },
+  { 
+    "name": "Super Mario 64", 
+    "g": "super-mario-64", 
+    "sys": "n64", 
+    "id": "64",
+    "url": "c",
+    "badge": "N64"
+  },
+  { 
+    "name": "Punch Out!!", 
+    "g": "Punch-Out!!", 
+    "sys": "nes", 
+    "id": "63",
+    "url": "c",
+    "badge": "NES"
+  },
+  { 
+    "name": "Super Mario Bros 3", 
+    "g": "Super-Mario-Bros-3", 
+    "sys": "nes", 
+    "id": "61",
+    "url": "c",
+    "badge": "NES"
+  },
+  { 
+    "name": "Castlevania", 
+    "g": "Castlevania", 
+    "sys": "nes", 
+    "id": "60",
+    "url": "c",
+    "badge": "NES"
+  },
+  { 
+    "name": "Contra", 
+    "g": "Contra", 
+    "sys": "nes", 
+    "id": "59",
+    "url": "c",
+    "badge": "NES"
+  }
+]

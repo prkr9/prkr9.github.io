@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 1073741824,
+"dataUrl": "https://cdn.glitch.me/390c93a7-960a-46dc-86c4-e2c242f9dcc8/itchio.data.unityweb",
+"asmCodeUrl": "https://cdn.glitch.me/390c93a7-960a-46dc-86c4-e2c242f9dcc8/itchio.asm.code.unityweb",
+"asmMemoryUrl": "https://cdn.glitch.me/390c93a7-960a-46dc-86c4-e2c242f9dcc8/itchio.asm.memory.unityweb",
+"asmFrameworkUrl": "https://cdn.glitch.me/390c93a7-960a-46dc-86c4-e2c242f9dcc8/itchio.asm.framework.unityweb",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
+}

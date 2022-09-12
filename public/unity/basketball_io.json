@@ -1,0 +1,12 @@
+{
+"companyName": "BasketBall.io",
+"productName": "BasketBall.io",
+"dataUrl": "https://cdn.glitch.me/390c93a7-960a-46dc-86c4-e2c242f9dcc8/basketball_io.data.unityweb",
+"wasmCodeUrl": "https://cdn.glitch.me/390c93a7-960a-46dc-86c4-e2c242f9dcc8/basketball_io.wasm.code.unityweb",
+"wasmFrameworkUrl": "https://cdn.glitch.me/390c93a7-960a-46dc-86c4-e2c242f9dcc8/basketball_io.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000"
+}

@@ -1,0 +1,500 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,700,700i");
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Raleway", sans-serif;
+  background: linear-gradient(
+      0deg,
+      rgba(200, 139, 58, 0.5),
+      rgba(200, 139, 58, 0.3)
+    ),
+    url("https://cdn.glitch.com/161fba10-08d4-4007-b3c4-cf3478168729%2Fbg-galaxy3-6.png?1557025303102");
+  background-attachment: fixed;
+  background-color: rgba(200, 139, 58, 0.5);
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 16px;
+  margin-bottom: 8px;
+  color: #ffffff;
+  text-align: center;
+}
+div.main {
+  background-color: white;
+  border-radius: 50px;
+  box-shadow: 5px 5px 16px black;
+  padding: 24px;
+  width: 80%;
+  margin: 24px auto;
+  height: 200%;
+  float: inherit;
+  background: #00151f;
+}
+div.menu {
+  background-color: white;
+  border-radius: 50px;
+  box-shadow: 5px 5px 16px black;
+  padding: 24px;
+  width: 80%;
+  margin: 24px auto;
+  height: 500%;
+  float: inherit;
+  background: #00151f;
+}
+div.doublePanelGrid {
+  width: 448px;
+  height: 360px;
+}
+b {
+  color: #ffffff;
+  letter-spacing: 3px;
+}
+p {
+  color: #ffffff;
+}
+h2 {
+  letter-spacing: 5px;
+  color: #ffffff;
+}
+footer {
+  color: #ffffff;
+}
+iframe {
+  text-align: center;
+}
+
+.name {
+  color: #4f69ff;
+}
+.links {
+  color: #ffe700;
+}
+
+.list {
+  font-size: 24px;
+  color: #ffffff;
+  list-style-type: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+  flex: 1;
+}
+
+.list li {
+	display: inline-flex;
+	width: 195px;
+	padding-right: 12px;
+	padding-left: 12px;
+	margin-bottom: 24px
+}
+
+.box {
+	position: relative;
+	display: block;
+	color: #ffffff!important;
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	min-height: 90px;
+	box-shadow: 0 .5rem .9rem rgba(0, 0, 0, .15);
+	border-radius: 7px
+}
+
+.list li a:active {
+	box-shadow: 0 2px 8px 0 #000000
+}
+
+.box img {
+  float: left;
+	width: 171px;
+  height: 103px;
+  object-fit: cover;
+	border-radius: 0 0 0 0
+}
+
+.box-title {
+	display: block;
+	background-color: black;
+	padding: 5px;
+	text-align: center;
+	line-height: 20px;
+	font-size: 14px;
+	border-radius: 0 0 7px 7px;
+	color: #c88b3a;
+	text-decoration: none;
+	transition: .3s
+}
+
+.box:hover .box-title {
+ background-color: #c88b3a;
+ color: black;
+}
+
+a.box {
+	text-decoration: none
+}
+
+@media(max-width:640px) {
+	.list-container {
+	flex-direction: column
+	}
+}
+
+@media(max-width:500px) {
+	.list li {
+	width: 50%
+	}
+
+}
+
+.badge {
+    position: absolute;
+    top: 10px;
+    background-color: black;
+    color: #c88b3a;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-size: 12px;
+    border-radius: 0 4px 4px 0;
+}
+
+.plays-span {
+    position: absolute;
+    top: 80px;
+    background-color: black;
+    color: #c88b3a;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-size: 12px;
+    border-radius: 0 4px 4px 0;
+}
+
+/*.list a {
+  color: #c88b3a;
+}*/
+
+.footer {
+  background-color: #00151f;
+  border-radius: 50px;
+  box-shadow: 5px 5px 16px black;
+  padding: 30px;
+  width: 70%;
+}
+
+.social-footer-menu {
+  padding: 30px;
+  background: #00151f;
+  border-radius: 50px;
+  box-shadow: 5px 5px 16px black;
+  height: 30px;
+  width: 40%;
+  margin: 24px auto;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  float: inherit;
+}
+
+.social-footer {
+  padding: 30px;
+  background: #00151f;
+  border-radius: 50px;
+  box-shadow: 5px 5px 16px black;
+  height: 30px;
+  width: 60%;
+  margin: 24px auto;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  float: inherit;
+}
+
+.social-footer .social-footer-icons li:last-of-type {
+  margin-right: 0;
+}
+.social-footer .social-footer-icons .fab {
+  font-size: 1.3rem;
+  color: #fefefe;
+}
+.social-footer .social-footer-icons .fab:hover {
+  color: #4a4a4a;
+  transition: color 0.3s ease-in;
+}
+
+.rainbow {
+  /* Font options */
+  text-align: center;
+  font-size: 36px;
+  /* Chrome, Safari, Opera */
+  -webkit-animation: rainbow 2s infinite;
+
+  /* Internet Explorer */
+  -ms-animation: rainbow 2s infinite;
+
+  /* Standar Syntax */
+  animation: rainbow 2s infinite;
+}
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes rainbow {
+  0% {
+    color: orange;
+  }
+  10% {
+    color: purple;
+  }
+  20% {
+    color: red;
+  }
+  30% {
+    color: CadetBlue;
+  }
+  40% {
+    color: yellow;
+  }
+  50% {
+    color: coral;
+  }
+  60% {
+    color: green;
+  }
+  70% {
+    color: cyan;
+  }
+  80% {
+    color: DeepPink;
+  }
+  90% {
+    color: DodgerBlue;
+  }
+  100% {
+    color: orange;
+  }
+}
+
+/* Internet Explorer */
+@-ms-keyframes rainbow {
+  0% {
+    color: orange;
+  }
+  10% {
+    color: purple;
+  }
+  20% {
+    color: red;
+  }
+  30% {
+    color: CadetBlue;
+  }
+  40% {
+    color: yellow;
+  }
+  50% {
+    color: coral;
+  }
+  60% {
+    color: green;
+  }
+  70% {
+    color: cyan;
+  }
+  80% {
+    color: DeepPink;
+  }
+  90% {
+    color: DodgerBlue;
+  }
+  100% {
+    color: orange;
+  }
+}
+
+/* Standar Syntax */
+@keyframes rainbow {
+  0% {
+    color: orange;
+  }
+  10% {
+    color: purple;
+  }
+  20% {
+    color: red;
+  }
+  30% {
+    color: CadetBlue;
+  }
+  40% {
+    color: yellow;
+  }
+  50% {
+    color: coral;
+  }
+  60% {
+    color: green;
+  }
+  70% {
+    color: cyan;
+  }
+  80% {
+    color: DeepPink;
+  }
+  90% {
+    color: DodgerBlue;
+  }
+  100% {
+    color: orange;
+  }
+}
+.webgl-content * {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+.webgl-content {
+  top: 0;
+  left: 0;
+}
+
+.webgl-content .logo,
+.progress {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.webgl-content .logo {
+  background: url("progressLogo.Light.png") no-repeat center / contain;
+  width: 154px;
+  height: 130px;
+}
+.webgl-content .progress {
+  height: 18px;
+  width: 141px;
+  margin-top: 90px;
+}
+.webgl-content .progress .empty {
+  background: url("progressEmpty.Light.png") no-repeat right / cover;
+  float: right;
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+}
+.webgl-content .progress .full {
+  background: url("progressFull.Light.png") no-repeat left / cover;
+  float: left;
+  width: 0%;
+  height: 100%;
+  display: inline-block;
+}
+
+.webgl-content .logo.Dark {
+  background-image: url("progressLogo.Dark.png");
+}
+.webgl-content .progress.Dark .empty {
+  background-image: url("progressEmpty.Dark.png");
+}
+.webgl-content .progress.Dark .full {
+  background-image: url("progressFull.Dark.png");
+}
+
+.webgl-content .footer {
+  margin-top: 5px;
+  height: 38px;
+  line-height: 38px;
+  font-family: Helvetica, Verdana, Arial, sans-serif;
+  font-size: 18px;
+}
+.webgl-content .footer .webgl-logo,
+.title,
+.fullscreen {
+  height: 100%;
+  display: inline-block;
+  background: transparent center no-repeat;
+}
+.webgl-content .footer .webgl-logo {
+  background-image: url("webgl-logo.png");
+  width: 204px;
+  float: left;
+}
+.webgl-content .footer .title {
+  margin-right: 10px;
+  float: right;
+}
+.webgl-content .footer .fullscreen {
+  background-image: url("fullscreen.png");
+  width: 38px;
+  float: right;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+#gameContainer canvas {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+}
+
+.simmer {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  color: #aaaaaa;
+  font-size: 9px;
+  font-family: sans-serif;
+  font-family: sans-serif;
+
+  /*want to remove the simmer branding? uncomment display:none below!*/
+  /*display:none;*/
+}
+
+.simmer a {
+  color: #cccccc;
+  text-decoration: none;
+  font-size: 12px;
+  transition: opacity 3s;
+}
+
+.simmer a:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+.simmer.hide {
+  opacity: 0;
+}
+
+iframe.fullScreen {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+e {
+  top: 0;
+  left: 0;
+}
+

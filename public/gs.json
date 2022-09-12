@@ -1,0 +1,547 @@
+[
+  {
+    "name": "JPTR Agario",
+    "g": "https://jptragar.glitch.me/",
+    "sys": "f",
+    "id": "47",
+    "url": "f",
+    "badge": "JPTR"
+  },
+  {
+    "name": "JPTR Exodus",
+    "g": "https://jptrexodus.glitch.me/",
+    "sys": "f",
+    "id": "50",
+    "url": "f",
+    "badge": "JPTR"
+  },
+  {
+    "name": "1v1.LOL",
+    "g": "https://imadejptr.glitch.me/public/xml/1v1.html",
+    "sys": "f",
+    "id": "49",
+    "url": "f",
+    "badge": "HTML5"
+  },
+  {
+    "name": "Baseball Fury",
+    "g": "baseballfury",
+    "sys": "u",
+    "id": "52",
+    "url": "u",
+    "badge": "HTML5"
+  },
+  {
+    "name": "Basketball.io",
+    "g": "basketball_io",
+    "sys": "u",
+    "id": "2",
+    "url": "u",
+    "badge": "HTML5"
+  },
+  {
+    "name": "CleanUp.io",
+    "g": "cleanupio",
+    "sys": "u",
+    "id": "10",
+    "url": "u",
+    "badge": "HTML5"
+  },
+  { 
+    "name": "Discus (Amongus)", 
+    "g": "discus", 
+    "sys": "u", 
+    "id": "1" ,
+    "url": "u",
+    "badge": "HTML5"
+  },
+  { 
+    "name": "Drift Hunters", 
+    "g": "drift", 
+    "sys": "u", 
+    "id": "11" ,
+    "url": "u",
+    "badge": "HTML5"
+  },
+  
+  { 
+    "name": "Madalin Cars", 
+    "g": "madalin-cars", 
+    "sys": "u", 
+    "id": "13" ,
+    "url": "u",
+    "badge": "HTML5"
+  },
+  { 
+    "name": "Paper.io Mania", 
+    "g": "https://imadejptr.glitch.me/public/xml/paper-io-2.html", 
+    "sys": "f", 
+    "id": "51" ,
+    "url": "f",
+    "badge": "HTML5"
+  },
+  { 
+    "name": "Penguin.io", 
+    "g": "Penguinio", 
+    "sys": "u", 
+    "id": "12" ,
+    "url": "u",
+    "badge": "HTML5"
+  },
+  { 
+    "name": "Blades of Steel", 
+    "g": "Blades-of-Steel", 
+    "sys": "nes", 
+    "id": "8",
+    "url": "c",
+    "badge": "NES"
+  },
+  { 
+    "name": "Castlevania", 
+    "g": "Castlevania", 
+    "sys": "nes", 
+    "id": "60",
+    "url": "c",
+    "badge": "NES"
+  },
+  { 
+    "name": "Contra", 
+    "g": "Contra", 
+    "sys": "nes", 
+    "id": "59",
+    "url": "c",
+    "badge": "NES"
+  },
+  { 
+    "name": "Ice Hockey", 
+    "g": "Ice-Hockey", 
+    "sys": "nes", 
+    "id": "3",
+    "url": "c",
+    "badge": "NES"
+  },
+  { 
+    "name": "Kung Fu", 
+    "g": "Kung-Fu", 
+    "sys": "nes", 
+    "id": "20",
+    "url": "c",
+    "badge": "NES"
+  },
+  { 
+    "name": "Kirby", 
+    "g": "Kirby", 
+    "sys": "nes", 
+    "id": "30",
+    "url": "c",
+    "badge": "NES"
+  },
+  { 
+    "name": "Marios Moon Adventure (SMB HACK)", 
+    "g": "M-Moon-Adventure", 
+    "sys": "nes", 
+    "id": "21",
+    "url": "c",
+    "badge": "NES"
+  },
+  { 
+    "name": "Mega Man", 
+    "g": "Mega-Man", 
+    "sys": "nes", 
+    "id": "17",
+    "url": "c",
+    "badge": "NES"
+  },
+  { 
+    "name": "Mega Man 2", 
+    "g": "Mega-Man-2", 
+    "sys": "nes", 
+    "id": "18",
+    "url": "c",
+    "badge": "NES"
+  },
+  { 
+    "name": "Metroid", 
+    "g": "Metroid", 
+    "sys": "nes", 
+    "id": "19",
+    "url": "c",
+    "badge": "NES"
+  },
+  { 
+    "name": "Punch Out!!", 
+    "g": "Punch-Out!!", 
+    "sys": "nes", 
+    "id": "63",
+    "url": "c",
+    "badge": "NES"
+  },
+  {
+    "name": "Super Mario Bros",
+    "g": "Super-Mario-Bros",
+    "sys": "nes",
+    "id": "4",
+    "url": "c",
+    "badge": "NES"
+  },
+  { 
+    "name": "Super Mario Bros 3", 
+    "g": "Super-Mario-Bros-3", 
+    "sys": "nes", 
+    "id": "61",
+    "url": "c",
+    "badge": "NES"
+  },
+  {
+    "name": "Super Mario Bros 3mix (HACK)",
+    "g": "Super-Mario-Bros-3mix",
+    "sys": "nes",
+    "id": "15",
+    "url": "c",
+    "badge": "NES"
+  },
+  {
+    "name": "Tecmo Bowl",
+    "g": "Tecmo-Bowl",
+    "sys": "nes",
+    "id": "6",
+    "url": "c",
+    "badge": "NES"
+  },
+  {
+    "name": "Tecmo Super Bowl",
+    "g": "Tecmo-Super-Bowl",
+    "sys": "nes",
+    "id": "7",
+    "url": "c",
+    "badge": "NES"
+  },
+  {
+    "name": "Tetris",
+    "g": "Tetris",
+    "sys": "nes",
+    "id": "5",
+    "url": "c",
+    "badge": "NES"
+  },
+  {
+    "name": "Zelda",
+    "g": "Zelda",
+    "sys": "nes",
+    "id": "9",
+    "url": "c",
+    "badge": "NES"
+  },
+  { 
+    "name": "Chrono Trigger", 
+    "g": "Chrono-Trigger", 
+    "sys": "snes", 
+    "id": "58",
+    "url": "c",
+    "badge": "SNES"
+  },
+  { 
+    "name": "Donkey Kong Country", 
+    "g": "DK-Country", 
+    "sys": "snes", 
+    "id": "56",
+    "url": "c",
+    "badge": "SNES"
+  },
+  {
+    "name": "Earthbound",
+    "g": "EarthBound",
+    "sys": "snes",
+    "id": "22",
+    "url": "c",
+    "badge": "SNES"
+  },
+  { 
+    "name": "Earthworm Jim", 
+    "g": "Eworm-Jim", 
+    "sys": "snes", 
+    "id": "53",
+    "url": "c",
+    "badge": "SNES"
+  },
+  { 
+    "name": "Earthworm Jim 2", 
+    "g": "Eworm-Jim-2", 
+    "sys": "snes", 
+    "id": "54",
+    "url": "c",
+    "badge": "SNES"
+  },
+  {
+    "name": "F-Zero",
+    "g": "F-Zero",
+    "sys": "snes",
+    "id": "23",
+    "url": "c",
+    "badge": "SNES"
+  },
+  { 
+    "name": "Final Fantasy III", 
+    "g": "Final-Fantasy-3", 
+    "sys": "snes", 
+    "id": "57",
+    "url": "c",
+    "badge": "SNES"
+  },
+  {
+    "name": "Mario Kart R (HACK)",
+    "g": "Mario-Kart-R",
+    "sys": "snes",
+    "id": "24",
+    "url": "c",
+    "badge": "SNES"
+  },
+  {
+    "name": "NBA JAM: TE 2K22 (HACK)",
+    "g": "NBAJTE22",
+    "sys": "snes",
+    "id": "48",
+    "url": "c",
+    "badge": "SNES"
+  },
+  {
+    "name": "NHL 94",
+    "g": "NHL-94",
+    "sys": "snes",
+    "id": "25",
+    "url": "c",
+    "badge": "SNES"
+  },
+  {
+    "name": "Super Mario Kart",
+    "g": "Super-Mario-Kart",
+    "sys": "snes",
+    "id": "26",
+    "url": "c",
+    "badge": "SNES"
+  },
+  {
+    "name": "Super Mario World",
+    "g": "Super-Mario-World",
+    "sys": "snes",
+    "id": "27",
+    "url": "c",
+    "badge": "SNES"
+  },
+  {
+    "name": "Super Spongebob Kart (HACK)",
+    "g": "super-spongebob-kart",
+    "sys": "snes",
+    "id": "28",
+    "url": "c",
+    "badge": "SNES"
+  },
+  { 
+    "name": "Tetris 2", 
+    "g": "Tetris-2", 
+    "sys": "snes", 
+    "id": "55",
+    "url": "c",
+    "badge": "SNES"
+  },
+  {
+    "name": "Tetris Attack",
+    "g": "Tetris-Attack",
+    "sys": "snes",
+    "id": "29",
+    "url": "c",
+    "badge": "SNES"
+  },
+  {
+    "name": "NBA Jam - Tournament Edition",
+    "g": "NBAJTES",
+    "sys": "segaMD",
+    "id": "16",
+    "url": "c",
+    "badge": "SEGA"
+  },
+  { 
+    "name": "Diddy Kong Racing", 
+    "g": "diddy-kong-racing", 
+    "sys": "n64", 
+    "id": "69",
+    "url": "c",
+    "badge": "N64"
+  },
+  { 
+    "name": "F-Zero GX", 
+    "g": "f-zero-gx", 
+    "sys": "n64", 
+    "id": "65",
+    "url": "c",
+    "badge": "N64"
+  },
+  { 
+    "name": "Mario Kart 64", 
+    "g": "mario-kart-64", 
+    "sys": "n64", 
+    "id": "66",
+    "url": "c",
+    "badge": "N64"
+  },
+  { 
+    "name": "Mario Tennis", 
+    "g": "mario-tennis", 
+    "sys": "n64", 
+    "id": "68",
+    "url": "c",
+    "badge": "N64"
+  },
+  { 
+    "name": "Super Mario 64", 
+    "g": "super-mario-64", 
+    "sys": "n64", 
+    "id": "64",
+    "url": "c",
+    "badge": "N64"
+  },
+  { 
+    "name": "Super Smash Bros", 
+    "g": "super-smash-bros", 
+    "sys": "n64", 
+    "id": "67",
+    "url": "c",
+    "badge": "N64"
+  },
+  {
+    "name": "Pokemon Glazed",
+    "g": "glazed",
+    "sys": "gba",
+    "id": "14",
+    "url": "c",
+    "badge": "GBA"
+  },
+  {
+    "name": "1941",
+    "g": "1941",
+    "sys": "arcade",
+    "id": "31",
+    "url": "c",
+    "badge": "ARCADE"
+  },
+  {
+    "name": "Cadillacs and Dinosaurs",
+    "g": "dino",
+    "sys": "arcade",
+    "id": "32",
+    "url": "c",
+    "badge": "ARCADE"
+  },
+  {
+    "name": "Captain Commando",
+    "g": "captcomm",
+    "sys": "arcade",
+    "id": "33",
+    "url": "c",
+    "badge": "ARCADE"
+  },
+  {
+    "name": "Carrier Air Wing",
+    "g": "cawing",
+    "sys": "arcade",
+    "id": "34",
+    "url": "c",
+    "badge": "ARCADE"
+  },
+  {
+    "name": "Dynasty Wars",
+    "g": "dynwar",
+    "sys": "arcade",
+    "id": "35",
+    "url": "c",
+    "badge": "ARCADE"
+  },
+  {
+    "name": "Final Fight",
+    "g": "ffight",
+    "sys": "arcade",
+    "id": "36",
+    "url": "c",
+    "badge": "ARCADE"
+  },
+  {
+    "name": "Forgotten Worlds",
+    "g": "forgottn",
+    "sys": "arcade",
+    "id": "37",
+    "url": "c",
+    "badge": "ARCADE"
+  },
+  {
+    "name": "Ghouls'n Ghosts",
+    "g": "ghouls",
+    "sys": "arcade",
+    "id": "38",
+    "url": "c",
+    "badge": "ARCADE"
+  },
+  {
+    "name": "Megaman: The Power Battles",
+    "g": "megaman",
+    "sys": "arcade",
+    "id": "39",
+    "url": "c",
+    "badge": "ARCADE"
+  },
+  {
+    "name": "Mercs",
+    "g": "mercs",
+    "sys": "arcade",
+    "id": "40",
+    "url": "c",
+    "badge": "ARCADE"
+  },
+  {
+    "name": "Nemo",
+    "g": "nemo",
+    "sys": "arcade",
+    "id": "41",
+    "url": "c",
+    "badge": "ARCADE"
+  },
+  {
+    "name": "Pang! 3",
+    "g": "pang3",
+    "sys": "arcade",
+    "id": "42",
+    "url": "c",
+    "badge": "ARCADE"
+  },
+  {
+    "name": "Street Fighter II: Championship Edition",
+    "g": "sf2ce",
+    "sys": "arcade",
+    "id": "43",
+    "url": "c",
+    "badge": "ARCADE"
+  },
+  {
+    "name": "Street Fighter II: The World Warrior",
+    "g": "sf2",
+    "sys": "arcade",
+    "id": "44",
+    "url": "c",
+    "badge": "ARCADE"
+  },
+  {
+    "name": "Street Fighter II' Turbo: Hyper Fighting",
+    "g": "sf2hf",
+    "sys": "arcade",
+    "id": "45",
+    "url": "c",
+    "badge": "ARCADE"
+  },
+  {
+    "name": "The Punisher",
+    "g": "punisher",
+    "sys": "arcade",
+    "id": "46",
+    "url": "c",
+    "badge": "ARCADE"
+  }
+]
